@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+C:\Users\sshareef\aws\.metadata\.plugins\org.eclipse.jdt.core
+2873043083.index
+2091214405.index
+1930162656.index
+3873134123.index
